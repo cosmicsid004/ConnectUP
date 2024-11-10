@@ -2,7 +2,7 @@
 This is simple chat application based on java that runs on command-line, designed to facilitate real time communication between users on same network. 
 
 # Features
--Multi User Suport
+-Multi User Suport <br>
 -Real time messaging
 
 # Getting Started
